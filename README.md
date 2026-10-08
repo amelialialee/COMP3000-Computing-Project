@@ -1,1 +1,1 @@
-"# COMP3000 Computing Project" 
+# COMP3000 Computing Project 
